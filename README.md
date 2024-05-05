@@ -1,2 +1,0 @@
-# FruitsGame--WatermelonGameClone-
-FruitsGame
