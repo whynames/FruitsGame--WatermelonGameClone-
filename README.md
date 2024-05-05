@@ -1,15 +1,13 @@
-### FruitsGame WatermelonGameClone
+# FruitsGame WatermelonGameClone
 
 
 You can play this game in my github pages website.
 
 https://whynames.github.io/FruitsGame--WatermelonGameClone-/
 
-# All assets are made with AI 
+ All assets are made with AI and decouped in Photoshop
 
-..and decouped in Photoshop
-
-# This is a project shared solely to demonstrate what I believe is good code and portfolio purposes, but you can do whatever you want with it since it has a lot of things learnt and taken from other coders. 
+### This is a project shared solely to demonstrate what I believe is good code and portfolio purposes, but you can do whatever you want with it since it has a lot of things learnt and taken from other coders. 
 
 Used frameworks.
 1.PrimeTween - Tweening Framework - (https://github.com/KyryloKuzyk/PrimeTween).
