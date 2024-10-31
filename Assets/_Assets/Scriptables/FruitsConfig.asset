@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 008be4a44c064878ab83eb6be3e2e503, type: 3}
+  m_Name: FruitsConfig
+  m_EditorClassIdentifier: 
+  fruits:
+  - Prefab: {fileID: 4099249630443296222, guid: 00e52d74c5d11a0458a5c1736e6609d6, type: 3}
+    Points: 1
+  - Prefab: {fileID: 6272130718641524366, guid: 336b270bfe857b44bb15b1aa9e32bb0b, type: 3}
+    Points: 4
+  - Prefab: {fileID: 6272130718641524366, guid: a29868db143b5fa498769a8a9b007580, type: 3}
+    Points: 7
+  - Prefab: {fileID: 6272130718641524366, guid: b415f59892569274db8de6da3dfef39a, type: 3}
+    Points: 15
+  - Prefab: {fileID: 6272130718641524366, guid: ab9bd36a8ef1fcf46a2de863cf675fdc, type: 3}
+    Points: 32
+  - Prefab: {fileID: 6272130718641524366, guid: 5b782bf2d476fa349b8e77813bcda1e9, type: 3}
+    Points: 65
+  - Prefab: {fileID: 6272130718641524366, guid: 1d27a10591e24ba429774debf1159b41, type: 3}
+    Points: 100
+  - Prefab: {fileID: 6272130718641524366, guid: 8ee2ae7cd5ceabc4b8b34656b00c6281, type: 3}
+    Points: 250

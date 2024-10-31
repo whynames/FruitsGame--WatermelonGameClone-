@@ -1,0 +1,1 @@
+{"gameName":"Game Name","storeLink":"https://play.google.com/store/apps/details?id=com.BotanGameServices.chickenjump","imageUrls":["https://BotanGameServicesgames.com/promo/cross_promo.png"]}
